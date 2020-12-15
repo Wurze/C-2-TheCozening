@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Maps/map.tmx</SourceFile>
+  <SourceTime>2020-06-19T13:22:15.9921075+02:00</SourceTime>
+  <DestFile>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/bin/Windows/Maps/map.xnb</DestFile>
+  <DestTime>2020-06-21T15:10:31.0904459+02:00</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2019-06-24T11:34:14+02:00</ImporterTime>
+  <Processor>PassThroughProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

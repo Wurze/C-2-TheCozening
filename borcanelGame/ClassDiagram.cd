@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="borcanelGame.Gameplay.ItemOnFloor">
+    <Position X="2.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Gameplay\ItemOnFloor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="borcanelGame.Gameplay.LevelMap">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="borcanelGame.Gameplay.LevelMap.ELayer" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Gameplay\LevelMap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="borcanelGame.Gameplay.LevelMap.EEntityType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Gameplay\LevelMap.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AIQQEAAAAABAAIAAAAARBAAAQAAABEAgAAAAgQCAAAg=</HashCode>
+      <FileName>Gameplay\LevelMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="borcanelGame.Gameplay.Menu">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="borcanelGame.Gameplay.Menu.EChoice" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Gameplay\Menu.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAABABgQgEAAEACAAECAAAAgAAAAAAAAQAAA=</HashCode>
+      <FileName>Gameplay\Menu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="borcanelGame.Gameplay.Player">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="borcanelGame.Gameplay.Player.ECollisionSide" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Gameplay\Player.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="borcanelGame.Gameplay.Player.EAnimState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Gameplay\Player.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAQQABKAAAkBAAgAAAAAAAAAAAAAAAAAAAAhAAAAABA=</HashCode>
+      <FileName>Gameplay\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="borcanelGame.Gameplay.UIItem">
+    <Position X="2.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Gameplay\UIItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="borcanelGame.Gameplay.UIText">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAAggAoEAAAAAAAACCAAAAAAAAACAAQAAA=</HashCode>
+      <FileName>Gameplay\UIText.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="borcanelGame.Engine.AnimatedSprite">
+    <Position X="0.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEEAAgEAgAAAAAAAAAAgABAAAAAAAACAAAgADA=</HashCode>
+      <FileName>Engine\AnimatedSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="borcanelGame.Engine.Animation" Collapsed="true">
+    <Position X="0.5" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAABBACAAAAAAAAIIAAAAACA=</HashCode>
+      <FileName>Engine\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="borcanelGame.Engine.Camera">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAEAAAAEAAAgQAAAAAAAAAMAAAAAQAACAAAAEAA=</HashCode>
+      <FileName>Engine\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="borcanelGame.Engine.Input">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCAAAEAAgJiABAECQAAAAAQAKAAAAAgIAAYAiAASQAA=</HashCode>
+      <FileName>Engine\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="borcanelGame.Engine.Sprite">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAAAIgAAgAgEgIAAAAAACAAABEAAAIAAAoQAgA=</HashCode>
+      <FileName>Engine\Sprite.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="borcanelGame.Engine.TileMapActor">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQQEAAgBIAAAgAgEAAAAGAAACAABQAAAAEAAQAQAgg=</HashCode>
+      <FileName>Engine\TileMapActor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="borcanelGame.MainGame">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIEFBAAIAAAyAAgAAAUAgAAACQAAghAAARIIIAAAQ=</HashCode>
+      <FileName>MainGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="borcanelGame.Engine.IActor">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAgEAAAAAAAACAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Engine\IActor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="borcanelGame.Gameplay.EItemType">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAQAAAAAAAAQAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Gameplay\Items.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="borcanelGame.Engine.MouseButtons">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACACQAAAAAAA=</HashCode>
+      <FileName>Engine\Input.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

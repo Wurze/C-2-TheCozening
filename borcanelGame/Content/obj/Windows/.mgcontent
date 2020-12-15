@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Fonts/mainfont.spritefont</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Images/Dungeon_Tileset.png</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Images/Key1.png</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Images/Key2.png</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Images/LightTrickSprite.png</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Images/Npc.png</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Images/Parchment.png</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Images/WalkingDown.png</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Images/WalkingLeft.png</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Images/WalkingRight.png</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Images/WalkingUp.png</File>
+    <File>C:/Users/Zaco/Desktop/borcanelGame/borcanelGame/Content/Maps/map.tmx</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
